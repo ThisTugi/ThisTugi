@@ -4,7 +4,7 @@
 
 **Computer Engineering Student | Embedded Systems & Low-Level Development Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tugrahan-avcul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuğrahan-avcul)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThisTugi)
 
 ---
@@ -69,6 +69,6 @@
 
 <div align="center">
 
-📫 **Connect with me:** [LinkedIn Profile](https://linkedin.com/in/tugrahan-avcul)
+📫 **Connect with me:** [LinkedIn Profile](https://linkedin.com/in/tuğrahan-avcul)
 
 </div>
