@@ -46,12 +46,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThisTugi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThisTugi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisTugi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisTugi&theme=tokyonight&hide_border=true" width="96%" />
+<img src="https://streak-stats.demolab.com/?user=ThisTugi&theme=tokyonight&hide_border=true" width="96%" />
 
 </div>
 
