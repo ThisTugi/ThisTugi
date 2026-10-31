@@ -51,7 +51,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=ThisTugi&theme=tokyonight&hide_border=true" width="96%" />
+<img src="https://streak-stats.demolab.com/?user=ThisTugi&theme=tokyonight&hide_border=true&timezone=Europe/Istanbul" width="96%" />
 
 </div>
 
